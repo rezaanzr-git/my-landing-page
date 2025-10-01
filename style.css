@@ -24,3 +24,22 @@ footer {
     padding: 10px;
     margin-top: 20px;
 }
+
+button {
+    background: #0078D7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #005999;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+}
